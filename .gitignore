@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+*.DS_Store
+test.png
+*.swp
+.python-version
+
+# Default ignored files
+/.idea/
+/__pycache__/
+.vscode/
+
+=======
+>>>>>>> main
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

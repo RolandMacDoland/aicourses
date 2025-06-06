@@ -1,5 +1,4 @@
-# AICourses
-
+# "AICourses"
 ## Installation
 Installation guidelines
 
